@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "87WtzkFUEXgymEDsOqBEZZpM/Kfsh0zBJeT2HdQOrOc=",
+  "Source": "parking-minimal-api",
+  "BasePath": "_content/parking-minimal-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
