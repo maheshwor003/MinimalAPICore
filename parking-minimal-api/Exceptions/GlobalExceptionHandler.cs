@@ -12,7 +12,8 @@ public class GlobalExceptionHandler : IExceptionHandler
      {
          _logger = logger;
      }
-
+ 
+        // Method to handle exceptions synchronously
      // Method to handle exceptions asynchronously
      public async ValueTask<bool> TryHandleAsync(
          HttpContext httpContext,
