@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("parking-minimal-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acba59cb9b5d757fd825530e274d105eb27772a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aac8d91c8aeccff10980b16c47a7cbb89ac8e70")]
 [assembly: System.Reflection.AssemblyProductAttribute("parking-minimal-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("parking-minimal-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
